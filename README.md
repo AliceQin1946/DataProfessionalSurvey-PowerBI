@@ -1,7 +1,7 @@
 # 📊 Data Professional Survey Breakdown (Power BI Project)
 
 This Power BI dashboard visualises survey responses from 630 data professionals, offering insights into salaries, job titles, favourite tools, and entry challenges.
-![Dashboard Preview](projectscreenshot.png)
+![Dashboard Preview](project_screenshot.png)
 
 ## 🔍 What It Shows
 - Average salary by job title
